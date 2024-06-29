@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://arshdkhan.github.io/)
 <h1 align="center">Hi 👋, I'm A Arshad Khan</h1>
 <h3 align="center">Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="padding: 10px;">
 
 - 🔭 I’m currently working on [This Project](https://github.com/ArshdKhan/)
 
