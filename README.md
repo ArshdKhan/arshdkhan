@@ -3,9 +3,9 @@
 <h3 align="center">Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-- 🔭 I’m currently working on [Project](https://github.com/ArshdKhan/)
+- 🔭 I’m currently working on [This Project](https://github.com/ArshdKhan/)
 
-- 🌱 I’m currently learning **Digital Forensics, Computer Network Security and Cryptography**
+- 🌱 I’m currently learning **Digital Forensics and Computer Network Security**
 
 - 👨‍💻 All of my projects are available at [https://arshdkhan.github.io/](https://arshdkhan.github.io/)
 
