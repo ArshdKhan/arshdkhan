@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project](https://github.com/ArshdKhan/)
 
-- 🌱 I’m currently learning **Digital Forensics, Computer Network Security and Cryptography within the Cybersecurity field**
+- 🌱 I’m currently learning **Digital Forensics, Computer Network Security and Cryptography**
 
 - 👨‍💻 All of my projects are available at [https://arshdkhan.github.io/](https://arshdkhan.github.io/)
 
@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/a-arshad-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-arshad-khan" height="30" width="40" /></a>
 <a href="https://kaggle.com/arshdkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arshdkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/arshd__khn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshd__khn" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arsdkhn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arsdkhn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pes2ug22cs001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pes2ug22cs001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adkn" height="30" width="40" /></a>
 </p>
@@ -46,7 +45,7 @@
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/Childebrand94/Childebrand94/7ee51ff3916ae38e4af777fe83c6c216cfafa58d/rust-crab.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
