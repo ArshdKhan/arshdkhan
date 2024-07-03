@@ -3,7 +3,7 @@
 <h3 align="center">Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on [This Project](https://github.com/ArshdKhan/)
+- 🔭 I’m currently working on [This Project](https://github.com/ArshdKhan/FocusBro)
 
 - 🌱 I’m currently learning **Digital Forensics and Computer Network Security**
 
