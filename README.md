@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FocusBro](https://github.com/ArshdKhan/FocusBro) and [DealsBro](https://github.com/NandigalaJacinth/DealsBro)
 
-- 🌱 I’m currently learning **Digital Forensics and Computer Network Security**
+- 🌱 I’m currently learning **Essential Concepts and Tools in Cybersecurity**.
 
 - 👨‍💻 All of my projects are available at [https://arshdkhan.github.io/](https://arshdkhan.github.io/)
 
