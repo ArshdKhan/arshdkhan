@@ -3,7 +3,7 @@
 <h3 align="center">Student at PES University, B.Tech in Computer Science Engineering, graduating in 2026.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on [FocusBro](https://github.com/ArshdKhan/FocusBro) and [DealsBro](https://github.com/NandigalaJacinth/DealsBro)
+- 🔭 I’m currently working on [ChainWave](https://github.com/ArshdKhan/FocusBro](https://github.com/Snapman5678/ChainWave).
 
 - 🌱 I’m currently learning **Essential Concepts and Tools in Cybersecurity**.
 
